@@ -22,3 +22,5 @@ import { User, Department } from "../interfaces/types";
      abstract calculateSalary(): number;
 
       }
+
+      
