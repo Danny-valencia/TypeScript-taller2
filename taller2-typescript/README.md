@@ -231,10 +231,7 @@ Desarrollar habilidades fundamentales en TypeScript aplicando conceptos de tipos
    - Salida del programa mostrando empleados cargados
    - Código compilando sin errores de TypeScript
 
-4. **Documentación** (`DESARROLLO.md`):
-   - Explicación de cada clase implementada
-   - Descripción de la inyección de dependencias usada
-   - Dificultades encontradas y cómo se resolvieron
+4. 
 
 ## 🎯 Criterios de Evaluación
 
