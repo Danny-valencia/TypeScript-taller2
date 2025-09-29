@@ -10,8 +10,7 @@ const user: User = {
   gender: "male",
 };
 
-const dev = new Developer(user, 1, ["JavaScript", "Next.js"]);
-
+const dev = new Developer(user, 1, ["JavaScript", "Next-js"]);
 
 console.log(dev.getDetails());
 console.log("Salario:", dev.calculateSalary());
